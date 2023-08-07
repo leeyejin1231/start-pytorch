@@ -3,10 +3,10 @@ ex) 챗봇, 번역기, Text Summarization, STT ..
 ### 1. 모델의 개요
 seq2seq는 번역기에서 대표적으로 사용되는 모델으로, 인코더와 디코더로 구성되어 있다.  
 인코더는 입력 문장의 모든 단어들을 순차적으로 입력받은 뒤에 마지막에 이 모든 단어 정보들을 압축해서 하나의 벡터로 만드는데, 이를 context vector라고 한다.  
-![Alt text](image.png)  
+![Alt text](images/image.png)  
 
 ### 2. seq2seq의 동작 과정
-![Alt text](image-1.png)  
+![Alt text](images/image-1.png)  
 SLTM이나 GRU를 사용하여 구성된다.  
 
 #### 1. 테스트 단계
@@ -20,14 +20,14 @@ SLTM이나 GRU를 사용하여 구성된다.
 디코더는 오직 context vector와 \<go>만을 입력으로 받은 후에 다음에 올 단어를 예측하고, 그 단어를 다음 시점의 RNN 셀의 입력으로 넣는 행위를 반복한다.   
 
 #### 3. 임베딩 층
-![Alt text](image-2.png)  
+![Alt text](images/image-2.png)  
 
 #### 4. RNN 셀
-![Alt text](image-3.png)  
+![Alt text](images/image-3.png)  
 context vector는 사실 인코더에서의 마지막 RNN 셀의 은닉 상태값을 말하며, 이는 입력 문장의 모든 단어 토큰들의 정보를 요약해서 담고있다고 할 수 있다.  
 
 #### 5. 디코더
-![Alt text](image-4.png)  
+![Alt text](images/image-4.png)  
 디코더는 인코더의 마지막 RNN 셀의 은닉 상태인 Context vector를 첫 번째 은닉 상태의 값으로 사용한다.   
 
 디코더에서 각 time step의 RNN 셀에서 출력 벡터가 나오면, 해당 벡터는 소프트맥스 함수를 통해 출력 시퀀스의 각 단어별 확률값을 반환하고, 디코더는 출력 단어를 결정한다. 
