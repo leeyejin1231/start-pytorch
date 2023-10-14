@@ -1,3 +1,7 @@
+### 예제
+- 07 [파이토치(PyTorch)의 nn.Embedding()](https://github.com/leeyejin1231/start-pytorch/blob/main/09.%20%EB%8B%A8%EC%96%B4%EC%9D%98%20%ED%91%9C%ED%98%84%20%EB%B0%A9%EB%B2%95/09-07%20%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98(PyTorch)%EC%9D%98%20nn.Embedding().ipynb)
+- 08 [사전 훈련된 워드 임베딩](https://github.com/leeyejin1231/start-pytorch/blob/main/09.%20%EB%8B%A8%EC%96%B4%EC%9D%98%20%ED%91%9C%ED%98%84%20%EB%B0%A9%EB%B2%95/09-08%20%EC%82%AC%EC%A0%84%20%ED%9B%88%EB%A0%A8%EB%90%9C%20%EC%9B%8C%EB%93%9C%20%EC%9E%84%EB%B2%A0%EB%94%A9.ipynb)
+
 ## NLP에서의 원-핫 인코딩
 단어의 개수가 늘어날 수록, 벡터를 저장하기 위해 필요한 공간이 계속 늘어난다는 단점이 있다. 유사도 또한 파악할 수가 없다. 
 
