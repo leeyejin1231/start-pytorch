@@ -1,3 +1,6 @@
+### 예제
+- 02 [IMDB 리뷰 감성 분류하기](https://github.com/leeyejin1231/start-pytorch/blob/main/12.%20%EB%8B%A4%EB%8C%80%EC%9D%BC%20RNN%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B6%84%EB%A5%98/12-02%20IMDB%20%EB%A6%AC%EB%B7%B0%20%EA%B0%90%EC%84%B1%20%EB%B6%84%EB%A5%98%ED%95%98%EA%B8%B0.ipynb)
+
 ## 파이토치를 이용한 텍스트 분류
 ### 1. 훈련 데이터에 대한 이해
 ### 2. 훈련 데이터와 테스트 데이터
