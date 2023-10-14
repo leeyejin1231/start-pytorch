@@ -33,7 +33,7 @@
 - 08 사전 훈련된 워드 임베딩
 #### 10. [순환 신경망(RNN)](https://github.com/leeyejin1231/start-pytorch/blob/main/10.%20%EC%88%9C%ED%99%98%EC%8B%A0%EA%B2%BD%EB%A7%9D/README.md)
 - 01 순환신경망
-#### [11. 다대다 RNN을 이용한 텍스트 생성](https://github.com/leeyejin1231/start-pytorch/blob/main/11.%20%EB%8B%A4%EB%8C%80%EB%8B%A4%20RNN%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EC%83%9D%EC%84%B1/README.md)
+#### 11. [다대다 RNN을 이용한 텍스트 생성](https://github.com/leeyejin1231/start-pytorch/blob/main/11.%20%EB%8B%A4%EB%8C%80%EB%8B%A4%20RNN%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EC%83%9D%EC%84%B1/README.md)
 - 01 문자 단위 RNN(Char RNN)
 - 03 단어 단위 RNN - 임베딩 사용
 #### 12. [다대일 RNN을 이용한 텍스트 분류](https://github.com/leeyejin1231/start-pytorch/blob/main/12.%20%EB%8B%A4%EB%8C%80%EC%9D%BC%20RNN%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B6%84%EB%A5%98/README.md)
