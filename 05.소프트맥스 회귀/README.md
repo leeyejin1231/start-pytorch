@@ -1,3 +1,8 @@
+### 예제
+- 03 [소프트맥스 회귀의 비용 함수 구현하기](https://github.com/leeyejin1231/start-pytorch/blob/main/05.%EC%86%8C%ED%94%84%ED%8A%B8%EB%A7%A5%EC%8A%A4%20%ED%9A%8C%EA%B7%80/05-03%20%EC%86%8C%ED%94%84%ED%8A%B8%EB%A7%A5%EC%8A%A4%20%ED%9A%8C%EA%B7%80%EC%9D%98%20%EB%B9%84%EC%9A%A9%20%ED%95%A8%EC%88%98%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.ipynb)
+- 04 [소프트맥스 회귀 구현하기](https://github.com/leeyejin1231/start-pytorch/blob/main/05.%EC%86%8C%ED%94%84%ED%8A%B8%EB%A7%A5%EC%8A%A4%20%ED%9A%8C%EA%B7%80/05-04%20%EC%86%8C%ED%94%84%ED%8A%B8%EB%A7%A5%EC%8A%A4%20%ED%9A%8C%EA%B7%80%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.ipynb)
+- 05 [소프트맥스 회귀로 MNIST 데이터 분류하기](https://github.com/leeyejin1231/start-pytorch/blob/main/05.%EC%86%8C%ED%94%84%ED%8A%B8%EB%A7%A5%EC%8A%A4%20%ED%9A%8C%EA%B7%80/05-05%20%EC%86%8C%ED%94%84%ED%8A%B8%EB%A7%A5%EC%8A%A4%20%ED%9A%8C%EA%B7%80%EB%A1%9C%20MNIST%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EB%A5%98%ED%95%98%EA%B8%B0.ipynb)
+
 ## 원-핫 인코딩
 
 ### 1. 원-핫 인코딩
