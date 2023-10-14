@@ -1,3 +1,6 @@
+### 예제
+- 07 [CNN으로 MNIST 분류하기](https://github.com/leeyejin1231/start-pytorch/blob/main/07.%20%ED%95%A9%EC%84%B1%EA%B3%B1%20%EC%8B%A0%EA%B2%BD%EB%A7%9D(CNN)/07-02%20CNN%EC%9C%BC%EB%A1%9C%20MNIST%20%EB%B6%84%EB%A5%98%ED%95%98%EA%B8%B0.ipynb)
+
 ## 합성곱과 풀링
 
 ### 1. 합성곱 신경망의 대두
