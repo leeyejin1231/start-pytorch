@@ -1,7 +1,7 @@
 # Pytorch로 시작하는 딥 러닝 입문
 > 기초를 다시 한 번 훑어보자! 😉
 ### 목차
-#### 02. 파이토치 기초
+#### 02. [파이토치 기초](https://github.com/leeyejin1231/start-pytorch/blob/main/02.%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98%20%EA%B8%B0%EC%B4%88/README.md)
 - 02 텐서 조작하기  
 - 03 텐서 조작하기
 #### 03. [선형 회귀](https://github.com/leeyejin1231/start-pytorch/blob/main/03.%EC%84%A0%ED%98%95%20%ED%9A%8C%EA%B7%80/README.md)
@@ -33,7 +33,7 @@
 - 08 사전 훈련된 워드 임베딩
 #### 10. [순환 신경망(RNN)](https://github.com/leeyejin1231/start-pytorch/blob/main/10.%20%EC%88%9C%ED%99%98%EC%8B%A0%EA%B2%BD%EB%A7%9D/README.md)
 - 01 순환신경망
-#### 11. 다대다 RNN을 이용한 텍스트 생성
+#### [11. 다대다 RNN을 이용한 텍스트 생성](https://github.com/leeyejin1231/start-pytorch/blob/main/11.%20%EB%8B%A4%EB%8C%80%EB%8B%A4%20RNN%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EC%83%9D%EC%84%B1/README.md)
 - 01 문자 단위 RNN(Char RNN)
 - 03 단어 단위 RNN - 임베딩 사용
 #### 12. [다대일 RNN을 이용한 텍스트 분류](https://github.com/leeyejin1231/start-pytorch/blob/main/12.%20%EB%8B%A4%EB%8C%80%EC%9D%BC%20RNN%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B6%84%EB%A5%98/README.md)
