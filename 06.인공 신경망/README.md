@@ -1,3 +1,9 @@
+### 예제
+- 03 [XOR 문제 - 단층 퍼셉트론 구현하기](https://github.com/leeyejin1231/start-pytorch/blob/main/06.%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D/06-03%20XOR%20%EB%AC%B8%EC%A0%9C%20-%20%EB%8B%A8%EC%B8%B5%20%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.ipynb)
+- 05 [XOR 문제 - 다층 퍼셉트론 구현하기](https://github.com/leeyejin1231/start-pytorch/blob/main/06.%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D/06-05%20XOR%20%EB%AC%B8%EC%A0%9C%20-%20%EB%8B%A4%EC%B8%B5%20%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.ipynb)
+- 07 [다층 퍼셉트론으로 손글씨 분류하기](https://github.com/leeyejin1231/start-pytorch/blob/main/06.%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D/06-07%20%EB%8B%A4%EC%B8%B5%20%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0%EC%9C%BC%EB%A1%9C%20%EC%86%90%EA%B8%80%EC%94%A8%20%EB%B6%84%EB%A5%98%ED%95%98%EA%B8%B0.ipynb)
+- 08 [다층 퍼센트론으로 MNIST 분류하기](https://github.com/leeyejin1231/start-pytorch/blob/main/06.%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D/06-08%20%EB%8B%A4%EC%B8%B5%20%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0%EC%9C%BC%EB%A1%9C%20MNIST%20%EB%B6%84%EB%A5%98%ED%95%98%EA%B8%B0.ipynb)
+
 ## 머신 러닝 용어 이해하기
 
 ### 1. 머신 러닝 모델의 평가
