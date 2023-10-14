@@ -1,0 +1,3 @@
+### 예제
+- [01 문자 단위 RNN(Char RNN)](https://github.com/leeyejin1231/start-pytorch/blob/main/11.%20%EB%8B%A4%EB%8C%80%EB%8B%A4%20RNN%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EC%83%9D%EC%84%B1/11-01%20%EB%AC%B8%EC%9E%90%20%EB%8B%A8%EC%9C%84%20RNN(Char%20RNN).ipynb)
+- [03 단어 단위 RNN - 임베딩 사용](https://github.com/leeyejin1231/start-pytorch/blob/main/11.%20%EB%8B%A4%EB%8C%80%EB%8B%A4%20RNN%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EC%83%9D%EC%84%B1/11-03%20%EB%8B%A8%EC%96%B4%20%EB%8B%A8%EC%9C%84%20RNN%20-%20%EC%9E%84%EB%B2%A0%EB%94%A9%20%EC%82%AC%EC%9A%A9.ipynb)
